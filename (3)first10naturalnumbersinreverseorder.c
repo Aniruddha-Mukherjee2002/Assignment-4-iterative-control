@@ -2,8 +2,7 @@
 int main()
 {
     int i;
-    for(i=10;i<=10;i--)
-        if(i>0)
+    for(i=10;i>0;i--)
         printf("%d ",i);
     return 0;
 }
